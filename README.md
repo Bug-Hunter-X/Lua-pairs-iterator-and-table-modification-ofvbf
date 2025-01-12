@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Lua related to the `pairs` iterator and modifying tables during iteration. The `bug.lua` file contains code that exhibits this issue. The `bugSolution.lua` file provides a corrected version with explanations.
